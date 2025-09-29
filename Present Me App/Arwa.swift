@@ -19,7 +19,7 @@ struct Arwa: View {
                     .stroke(Color.green, lineWidth: 7)
             )
         
-        Text ("Trees")
+        Text ("Trees 12")
             .font(Font.largeTitle.bold())
             .foregroundStyle(Color.orange)
             .frame(maxWidth: .infinity, alignment: .leading)
